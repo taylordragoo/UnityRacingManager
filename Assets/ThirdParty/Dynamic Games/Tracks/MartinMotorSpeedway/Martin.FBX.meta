@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 0ab837182c06f78498b4ddecdaa97300
+timeCreated: 1429020057
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ArquibMartins1
+    100002: ArquibMartins2
+    100004: ArquibMartins3
+    100006: ArquibMartins4
+    100008: CercaExterna
+    100010: Constr01
+    100012: Constr02
+    100014: Constr02Decal
+    100016: Constr03
+    100018: Constr04
+    100020: Constr05
+    100022: GramadoExterno
+    100024: GramadoPistaMartinsVille
+    100026: //RootNode
+    100028: MuretaExterna
+    100030: MuretaMartinsVille
+    100032: PisoCentroMartinsVille
+    100034: PistaMartinsVille
+    100036: PistaMartinsVilleRiscos
+    100038: PlacasChao
+    100040: PosteLargada
+    100042: TorreMartinsille
+    100044: TorreMartinsilleTopo
+    400000: ArquibMartins1
+    400002: ArquibMartins2
+    400004: ArquibMartins3
+    400006: ArquibMartins4
+    400008: CercaExterna
+    400010: Constr01
+    400012: Constr02
+    400014: Constr02Decal
+    400016: Constr03
+    400018: Constr04
+    400020: Constr05
+    400022: GramadoExterno
+    400024: GramadoPistaMartinsVille
+    400026: //RootNode
+    400028: MuretaExterna
+    400030: MuretaMartinsVille
+    400032: PisoCentroMartinsVille
+    400034: PistaMartinsVille
+    400036: PistaMartinsVilleRiscos
+    400038: PlacasChao
+    400040: PosteLargada
+    400042: TorreMartinsille
+    400044: TorreMartinsilleTopo
+    2300000: ArquibMartins1
+    2300002: ArquibMartins2
+    2300004: ArquibMartins3
+    2300006: ArquibMartins4
+    2300008: CercaExterna
+    2300010: Constr01
+    2300012: Constr02
+    2300014: Constr02Decal
+    2300016: Constr03
+    2300018: Constr04
+    2300020: Constr05
+    2300022: GramadoExterno
+    2300024: GramadoPistaMartinsVille
+    2300026: MuretaExterna
+    2300028: MuretaMartinsVille
+    2300030: PisoCentroMartinsVille
+    2300032: PistaMartinsVille
+    2300034: PistaMartinsVilleRiscos
+    2300036: PlacasChao
+    2300038: PosteLargada
+    2300040: TorreMartinsille
+    2300042: TorreMartinsilleTopo
+    3300000: ArquibMartins1
+    3300002: ArquibMartins2
+    3300004: ArquibMartins3
+    3300006: ArquibMartins4
+    3300008: CercaExterna
+    3300010: Constr01
+    3300012: Constr02
+    3300014: Constr02Decal
+    3300016: Constr03
+    3300018: Constr04
+    3300020: Constr05
+    3300022: GramadoExterno
+    3300024: GramadoPistaMartinsVille
+    3300026: MuretaExterna
+    3300028: MuretaMartinsVille
+    3300030: PisoCentroMartinsVille
+    3300032: PistaMartinsVille
+    3300034: PistaMartinsVilleRiscos
+    3300036: PlacasChao
+    3300038: PosteLargada
+    3300040: TorreMartinsille
+    3300042: TorreMartinsilleTopo
+    4300000: PosteLargada
+    4300002: PistaMartinsVille
+    4300004: GramadoPistaMartinsVille
+    4300006: PisoCentroMartinsVille
+    4300008: MuretaMartinsVille
+    4300010: Constr02
+    4300012: Constr02Decal
+    4300014: Constr01
+    4300016: Constr04
+    4300018: Constr03
+    4300020: TorreMartinsille
+    4300022: TorreMartinsilleTopo
+    4300024: MuretaExterna
+    4300026: CercaExterna
+    4300028: ArquibMartins3
+    4300030: ArquibMartins4
+    4300032: PlacasChao
+    4300034: Constr05
+    4300036: ArquibMartins2
+    4300038: ArquibMartins1
+    4300040: GramadoExterno
+    4300042: PistaMartinsVilleRiscos
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
